@@ -36,7 +36,7 @@ For example, if you input a long paragraph, the interface will display a concise
 https://huggingface.co/spaces/Wajd915/AssignmentOne
 
 ### Video Walkthrough
-A video walkthrough explaining the Python notebook and demonstrating how to use the Gradio interface is included in the repository. You can view it by clicking on the video_walkthrough.mp4 file in the repository.
+A video walkthrough explaining the Python notebook and demonstrating how to use the Gradio interface is included in the repository. You can view it by clicking on the file in the repository.
 
 
 
